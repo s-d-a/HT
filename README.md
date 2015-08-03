@@ -25,4 +25,4 @@ You get pre-configured solutions for the most DCS modules:
 
 All these configurations are customizable.
 
-Thanks to ClearDark for the initial development of HawkTouch. 
+Thanks to ClearDark for the initial development of HawkTouch.

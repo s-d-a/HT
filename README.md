@@ -1,6 +1,6 @@
 # HT
 
-HT is more than a DLL extension for HaugTouch.
+HT is more than a DLL extension for HawgTouch.
 
 You get pre-configured solutions for the most DCS modules:
 
@@ -25,4 +25,4 @@ You get pre-configured solutions for the most DCS modules:
 
 All these configurations are customizable.
 
-Thanks to ClearDark for the initial development of HawkTouch.
+Thanks to ClearDark for the initial development of HawgTouch.

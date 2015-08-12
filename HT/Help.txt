@@ -1,0 +1,15 @@
+Die MonitorID ist nur dafür da, um anzugeben wo das kleinen Steuerfenster (Tab Box)
+angezeigt wird, wenn du ein HT Profil gestartet hast.
+Die MonitorID zeigt dir das HT Hauptprogramm an.
+
+Dann gibt es noch das Feld LatchTo, das gibt an wo auf dem Monitor die Tab Box angezeigt werden soll.
+Folgende Parameter sind möglich:
+- UpperLeft
+- UpperMiddle
+- UpperRight
+- MiddleLeft
+- Middle
+- MiddleRight
+- BottomLeft
+- BottomMiddle
+- BottomRight

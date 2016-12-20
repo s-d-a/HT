@@ -1,3 +1,5 @@
+## HT and HawgTouch is not longer supported
+
 # HT
 
 HT is more than a DLL extension for HawgTouch.
